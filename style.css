@@ -1,0 +1,26 @@
+body{
+  background-color: gainsboro;
+}
+
+#registration{
+  background-color: ghostwhite;
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  width: 550px;
+  padding: 30px;
+  
+}
+
+#hName{
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+#regForm{
+  padding: 8px;
+}
+
+
